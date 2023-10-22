@@ -7,6 +7,7 @@ const num2 = 10;
 let cadastroAtivo = true;
 
 //=== comparação
+// >= maior que
 //console.log(num1 === num2);
 
 const texto1 = "Gilmar";
